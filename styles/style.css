@@ -1,0 +1,41 @@
+html{
+
+    background-color: #ffffff;
+
+}
+
+
+.container {
+
+    max-width: 1366px;
+    margin: 0 auto;
+
+}
+
+.form-section{
+
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.formulario-form-section{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.title-formulario-form-section{
+
+    color: #3F3D56;
+    font-weight: bold;
+    font-size: 37px;
+
+}
